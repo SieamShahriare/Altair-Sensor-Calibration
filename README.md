@@ -27,12 +27,12 @@ More sensors and modules will be added as the project expands; each new sensor s
 ---
 
 ## Repository Structure
-
+```text
 .
 ├── sensors/
 │   ├── methane/
 │   ├── humidity/
-	│   ├── README.md
+    │   ├── README.md
 │   ├── uv/
 	├── temperature/
 	├── soilMoisture/
@@ -40,6 +40,7 @@ More sensors and modules will be added as the project expands; each new sensor s
 	├── co/
 	└── ...
 └── README.md
+```
 
 
 Each sensor directory contains:
