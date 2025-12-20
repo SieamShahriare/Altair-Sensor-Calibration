@@ -2,10 +2,10 @@
 
 ## Hardware
 
-- Sensor: MQ4
+- Sensor: MQ4 and (MQ7 for Rafsan)
 - Microcontroller:
 - Pins Used:
 
 ### Documentation
 
-by Rafsan, Sohan, Hasan
+by Rafsan (MQ7), Sohan, Hasan
