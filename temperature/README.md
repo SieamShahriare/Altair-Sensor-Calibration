@@ -3,8 +3,8 @@
 ## Hardware
 
 - Sensor: DS18B20
-- Microcontroller:
-- Pins Used:
+- Microcontroller: Arduino UNO
+- Pins Used: VCC, GND ,D2
 
 ### Documentation
 DS18B20 Temperature Sensor Guide
