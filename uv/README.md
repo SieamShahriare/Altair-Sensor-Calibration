@@ -90,7 +90,7 @@ This project uses a modular structure:
 Contains reusable functions such as:
 
 ```cpp
-int averageAnalogRead(int pin);
+int avgAnalogRead(int pin);
 ```
 
 # **utils.h**
