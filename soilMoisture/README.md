@@ -2,11 +2,11 @@
 
 ## Hardware
 
-Sensor: YL69 (soil moisture probe) + 10kΩ resistor (voltage divider)
+-Sensor: YL69 (soil moisture probe) + 10kΩ resistor (voltage divider)
 
-Microcontroller: Arduino UNO (ATmega328P)
+-Microcontroller: Arduino UNO (ATmega328P)
 
-Pins Used:
+-Pins Used:
 
 A0 → Soil probe analog sense (divider output)
 
