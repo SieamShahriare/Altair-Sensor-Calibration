@@ -15,6 +15,11 @@ The DS18B20 is a digital temperature sensor that communicates using the OneWire 
 2.Requires only one data wire plus power
 3.Each sensor has a unique 64-bit serial code
 4.Temperature range: -55°C to +125°C
+Pin Configuration
+DS18B20 Pin	Arduino Pin
+DATA	D2
+VCC	5V
+GND	GND
 Code Overview
 This project reads temperature from a DS18B20 sensor and applies calibration adjustments for more accurate readings.
 What the Code Does
