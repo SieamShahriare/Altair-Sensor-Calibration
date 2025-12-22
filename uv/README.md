@@ -1,8 +1,4 @@
-# UV Sensor (ML8511)
-
----
-
-# 🌞 ML8511 UV Sensor – Calibrated UV Index Measurement  
+# ML8511 UV Sensor – Calibrated UV Index Measurement  
 A complete Arduino-based system for measuring UV intensity using the ML8511 analog UV sensor, applying self‑calibrated voltage measurement and atmospheric calibration to output an accurate UV Index.
 
 ---
@@ -108,7 +104,7 @@ Function declarations.
 - Shadows and reflections  
 
 # **Calibration method**
-1. Collected hourly UV Index data from a weather service  [Visit uvindex.today]([https://www.google.com](https://uvindex.today/cities/dhaka-bd#trend))
+1. Collected hourly UV Index data from a weather service  ([uvindex.today](https://uvindex.today/cities/dhaka-bd#trend))
 2. Measured corresponding sensor voltages  
 3. Computed UV_raw = voltage − 1.0  
 4. Performed linear regression  
