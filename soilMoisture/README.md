@@ -20,4 +20,4 @@ GND → Common ground (DHT11 + soil divider)
 
 ### Documentation
 
-by Kanetah, Nazifa
+#Circuit Connections
