@@ -139,3 +139,5 @@ Check:
 - Avoid touching the sensor (heat drift)
 
 ---
+
+**Author** : Hasib
