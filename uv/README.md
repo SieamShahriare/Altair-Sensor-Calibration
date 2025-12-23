@@ -115,21 +115,21 @@ This produces a UV Index that closely matches atmospheric data.
 ---
 
 ## Troubleshooting  
- **Sensor shows 0 UV indoors**
-Correct — indoor lights do not emit UV.
+ **Sensor shows 0 UV indoors**: 
+ Indoor lights do not emit UV.
 
- **Flashlight causes small readings**
-This is **thermal drift**, not UV.  
-The sensor reacts to heat from your finger or the flashlight.
+ **Flashlight causes small readings**: 
+ This is **thermal drift**, not UV.  
+ The sensor reacts to heat from your finger or the flashlight.
 
- **No change in sunlight**
+ **No change in sunlight**: 
 Check:
 - Wiring  
 - 3.3V reference connected to A3
 - Sensor facing the sky  
 - Serial monitor baud rate matches code  
 
- **Readings jump randomly**
+ **Readings jump randomly**: 
 - Use `avgAnalogRead()`  
 - Keep wires short  
 - Avoid touching the sensor (heat drift)
